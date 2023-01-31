@@ -5,9 +5,10 @@
 
 2.git add . 添加当前文件夹所有文件到缓冲区
 
-3.git commit -m 'vue2-bootstrap-todolist案例'  提交 并附带本次提交解释
+3.git commit -m <本次提交的解释>  提交 并附带本次提交解释
 
 4.git remote add origin <提交地址>  设置github上创建的仓库
 
 5.git push -u origin master  推送到远程仓库
+
 
